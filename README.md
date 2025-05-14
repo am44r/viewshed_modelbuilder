@@ -1,7 +1,7 @@
 # 📍 Viewshed & Least Cost Path Analysis  
 
 ## 📖 Overview  
-This project is a Geographic Information Processing assignment for GGR321. The objective is to conduct **Viewshed Analysis** to determine the best sightseeing location on a mountain and perform a **Least Cost Path Analysis** to design an optimal hiking trail connecting the urban area to the sightseeing spot.  
+The objective is to conduct **Viewshed Analysis** to determine the best sightseeing location on a mountain and perform a **Least Cost Path Analysis** to design an optimal hiking trail connecting the urban area to the sightseeing spot.  
 
 ## 🎯 Objectives  
 - Conduct **Viewshed Analysis** to determine which candidate location provides the best visibility of the urban area.  
